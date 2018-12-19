@@ -38,6 +38,7 @@ Mithril supports IE11, Firefox ESR, and the last two versions of Firefox, Edge, 
 ```bash
 $ npm install mithril --save
 ```
+hey sorry about this just testing
 
 The ["Getting started" guide](https://mithril.js.org/#getting-started) is a good place to start learning how to use mithril.
 
